@@ -1,0 +1,1267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<graph label="vv10130Ubiquinone_biosynthesis12X.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cy="http://www.cytoscape.org" xmlns="http://www.cs.rpi.edu/XGMML"  directed="1">
+  <att name="documentVersion" value="1.1"/>
+  <att name="networkMetadata">
+    <rdf:RDF>
+      <rdf:Description rdf:about="http://www.cytoscape.org/">
+        <dc:type>Protein-Protein Interaction</dc:type>
+        <dc:description>N/A</dc:description>
+        <dc:identifier>N/A</dc:identifier>
+        <dc:date>2010-10-07 10:15:20</dc:date>
+        <dc:title>vv10130Ubiquinone_biosynthesis12X.xml</dc:title>
+        <dc:source>http://www.cytoscape.org/</dc:source>
+        <dc:format>Cytoscape-XGMML</dc:format>
+      </rdf:Description>
+    </rdf:RDF>
+  </att>
+	<node label="Vv01s0010t00850" id="Vv01s0010t00850">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa1"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vv01s0010t00850"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="RNA"/>
+<graphics type="PARALLELOGRAM" h="15.0" w="90.0" x="791.5" y="440.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi01t00688" id="Vitvi01t00688">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa2"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi01t00688"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="RNA"/>
+<graphics type="PARALLELOGRAM" h="15.0" w="90.0" x="791.5" y="426.0" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vv01s0010g00850" id="Vv01s0010g00850">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa3"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vv01s0010g00850"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="GENE"/>
+<graphics type="RECT" h="15.0" w="170.0" x="616.0" y="440.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi01g00688" id="Vitvi01g00688">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa4"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi01g00688"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="GENE"/>
+<graphics type="RECT" h="15.0" w="170.0" x="616.0" y="426.0" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="hydroxymethylglutaryl-CoA lyase0" id="E4_1_3_40">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa5"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="E4_1_3_40"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="PROTEIN"/>
+<graphics type="OCTAGON" h="15.0" w="197.0" x="101.0" y="105.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="4-Hydroxybenzoate" id="C00156">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa6"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="C00156"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="SIMPLE_MOLECULE"/>
+<graphics type="ELLIPSE" h="15.0" w="130.0" x="236.0" y="175.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi17g00547" id="Vitvi17g00547">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa7"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi17g00547"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="GENE"/>
+<graphics type="RECT" h="15.0" w="170.0" x="312.0" y="26.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi14g01898" id="Vitvi14g01898">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa8"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi14g01898"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="GENE"/>
+<graphics type="RECT" h="15.0" w="170.0" x="312.0" y="42.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="GeneTC69646" id="GeneTC69646">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa9"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="GeneTC69646"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="GENE"/>
+<graphics type="RECT" h="15.0" w="170.0" x="312.0" y="58.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="4-hydroxybenzoate hexaprenyltransferase" id="K06125">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa10"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="K06125"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="PROTEIN"/>
+<graphics type="OCTAGON" h="15.0" w="230.0" x="196.0" y="210.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi01g00178" id="Vitvi01g00178">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa11"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi01g00178"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="GENE"/>
+<graphics type="RECT" h="15.0" w="170.0" x="290.5" y="195.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi01t00178" id="Vitvi01t00178">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa12"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi01t00178"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="RNA"/>
+<graphics type="PARALLELOGRAM" h="15.0" w="90.0" x="198.5" y="195.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi17g00551" id="Vitvi17g00551">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa13"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi17g00551"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="GENE"/>
+<graphics type="RECT" h="15.0" w="170.0" x="312.0" y="10.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate_synthase" id="E2_5_1_64">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa14"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="E2_5_1_64"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="PROTEIN"/>
+<graphics type="OCTAGON" h="15.0" w="406.0" x="306.0" y="114.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="all-trans-Hexaprenyl diphosphate" id="C01230">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa15"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="C01230"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="SIMPLE_MOLECULE"/>
+<graphics type="ELLIPSE" h="15.0" w="221.0" x="69.0" y="155.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Chorismate" id="C00251">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa16"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="C00251"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="SIMPLE_MOLECULE"/>
+<graphics type="ELLIPSE" h="15.0" w="77.0" x="266.0" y="85.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="3-Hexaprenyl-4-hydroxybenzoate" id="C13425">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa17"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="C13425"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="SIMPLE_MOLECULE"/>
+<graphics type="ELLIPSE" h="15.0" w="198.0" x="80.0" y="229.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi00g01525" id="Vitvi00g01525">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa18"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi00g01525"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="GENE"/>
+<graphics type="RECT" h="15.0" w="170.0" x="313.0" y="238.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="hexaprenyldihydroxybenzoate_methyltransferase" id="E2_1_1_114">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa19"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="E2_1_1_114"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="PROTEIN"/>
+<graphics type="OCTAGON" h="15.0" w="286.0" x="315.0" y="303.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="3-Hexaprenyl-4,5-dihydroxybenzoate" id="C05200">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa20"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="C05200"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="SIMPLE_MOLECULE"/>
+<graphics type="ELLIPSE" h="15.0" w="236.0" x="60.0" y="277.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="3-Hexaprenyl-4-hydroxy-5-methoxybenzoate" id="C05313">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa21"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="C05313"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="SIMPLE_MOLECULE"/>
+<graphics type="ELLIPSE" h="15.0" w="253.0" x="51.0" y="315.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi17t00547" id="Vitvi17t00547">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa22"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi17t00547"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="RNA"/>
+<graphics type="PARALLELOGRAM" h="15.0" w="90.0" x="486.0" y="25.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi14t01898" id="Vitvi14t01898">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa23"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi14t01898"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="RNA"/>
+<graphics type="PARALLELOGRAM" h="15.0" w="90.0" x="486.0" y="41.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="TC69646" id="TC69646">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa24"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="TC69646"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="RNA"/>
+<graphics type="PARALLELOGRAM" h="15.0" w="90.0" x="486.0" y="57.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi17t00551" id="Vitvi17t00551">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa25"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi17t00551"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="RNA"/>
+<graphics type="PARALLELOGRAM" h="15.0" w="90.0" x="486.0" y="9.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="isochorismate_synthase" id="E5_4_4_2">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa26"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="E5_4_4_2"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="PROTEIN"/>
+<graphics type="OCTAGON" h="15.0" w="141.0" x="428.0" y="75.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="GSVIVP00011890001" id="GSVIVP00011890001">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa28"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="GSVIVP00011890001"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="RNA"/>
+<graphics type="PARALLELOGRAM" h="15.0" w="90.0" x="490.0" y="288.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi00t00109" id="Vitvi00t00109">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa29"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi00t00109"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="RNA"/>
+<graphics type="PARALLELOGRAM" h="15.0" w="90.0" x="490.0" y="272.8333333333333" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="GSVIVP00011282001" id="GSVIVP00011282001">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa30"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="GSVIVP00011282001"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="RNA"/>
+<graphics type="PARALLELOGRAM" h="15.0" w="90.0" x="490.0" y="257.16666666666663" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi00t01525" id="Vitvi00t01525">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa31"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi00t01525"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="RNA"/>
+<graphics type="PARALLELOGRAM" h="15.0" w="90.0" x="490.0" y="241.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="GSVIVT00011890001" id="GSVIVT00011890001">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa32"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="GSVIVT00011890001"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="GENE"/>
+<graphics type="RECT" h="15.0" w="170.0" x="313.0" y="286.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi00g00109" id="Vitvi00g00109">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa33"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi00g00109"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="GENE"/>
+<graphics type="RECT" h="15.0" w="170.0" x="313.0" y="270.8333333333333" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="GSVIVT00011282001" id="GSVIVT00011282001">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa34"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="GSVIVT00011282001"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="GENE"/>
+<graphics type="RECT" h="15.0" w="170.0" x="313.0" y="255.16666666666666" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="ubiquinone biosynthesis methyltransferase Coq5" id="K06127">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa35"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="K06127"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="PROTEIN"/>
+<graphics type="OCTAGON" h="15.0" w="250.0" x="200.0" y="413.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="ubiquinone/menaquinone biosynthesis methyltransferase" id="K03183">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa36"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="K03183"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="PROTEIN"/>
+<graphics type="OCTAGON" h="15.0" w="320.0" x="571.0" y="411.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="(1R,6R)-6-Hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate" id="C05817">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa37"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="C05817"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="SIMPLE_MOLECULE"/>
+<graphics type="ELLIPSE" h="15.0" w="341.0" x="564.0" y="161.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="2-Demethylmenaquinone" id="C05818">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa38"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="C05818"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="SIMPLE_MOLECULE"/>
+<graphics type="ELLIPSE" h="15.0" w="156.0" x="567.0" y="380.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="2-Hexaprenyl-6-methoxyphenol" id="C05802">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa39"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="C05802"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="SIMPLE_MOLECULE"/>
+<graphics type="ELLIPSE" h="15.0" w="186.0" x="85.0" y="346.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="2-Hexaprenyl-6-methoxy-1,4-benzoquinone" id="C05803">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa40"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="C05803"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="SIMPLE_MOLECULE"/>
+<graphics type="ELLIPSE" h="15.0" w="258.0" x="48.0" y="397.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Menaquinone" id="C00828">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa41"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="C00828"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="SIMPLE_MOLECULE"/>
+<graphics type="ELLIPSE" h="15.0" w="98.0" x="467.0" y="407.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="ubiquinone biosynthesis monooxygenase Coq6" id="K06126">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa42"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="K06126"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="PROTEIN"/>
+<graphics type="OCTAGON" h="15.0" w="250.0" x="274.0" y="381.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vv03s0038g01240" id="Vv03s0038g01240">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa44"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vv03s0038g01240"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="GENE"/>
+<graphics type="RECT" h="15.0" w="170.0" x="357.5" y="366.2449951171875" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vv03s0038t01240" id="Vv03s0038t01240">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa45"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vv03s0038t01240"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="RNA"/>
+<graphics type="PARALLELOGRAM" h="15.0" w="90.0" x="268.5" y="366.2449951171875" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi05g01036" id="Vitvi05g01036">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa46"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi05g01036"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="GENE"/>
+<graphics type="RECT" h="15.0" w="170.0" x="357.5" y="350.0" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi05t01036" id="Vitvi05t01036">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa47"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi05t01036"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="RNA"/>
+<graphics type="PARALLELOGRAM" h="15.0" w="90.0" x="268.25" y="350.0" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi07t00742" id="Vitvi07t00742">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa48"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi07t00742"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="RNA"/>
+<graphics type="PARALLELOGRAM" h="15.0" w="90.0" x="651.0" y="488.07142857142856" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi07g00742" id="Vitvi07g00742">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa49"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi07g00742"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="GENE"/>
+<graphics type="RECT" h="15.0" w="170.0" x="478.0" y="488.07142857142856" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi01t01033" id="Vitvi01t01033">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa50"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi01t01033"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="RNA"/>
+<graphics type="PARALLELOGRAM" h="15.0" w="90.0" x="197.0" y="476.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi01g01033" id="Vitvi01g01033">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa51"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi01g01033"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="GENE"/>
+<graphics type="RECT" h="15.0" w="170.0" x="286.0" y="476.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi11t00192" id="Vitvi11t00192">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa52"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi11t00192"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="RNA"/>
+<graphics type="PARALLELOGRAM" h="15.0" w="90.0" x="197.0" y="491.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi11g00192" id="Vitvi11g00192">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa53"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi11g00192"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="GENE"/>
+<graphics type="RECT" h="15.0" w="170.0" x="286.0" y="491.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi14t01656" id="Vitvi14t01656">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa54"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi14t01656"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="RNA"/>
+<graphics type="PARALLELOGRAM" h="15.0" w="90.0" x="197.0" y="507.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi14g01656" id="Vitvi14g01656">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa55"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi14g01656"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="GENE"/>
+<graphics type="RECT" h="15.0" w="170.0" x="286.0" y="507.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi01t00693" id="Vitvi01t00693">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa56"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi01t00693"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="RNA"/>
+<graphics type="PARALLELOGRAM" h="15.0" w="90.0" x="197.0" y="523.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi01g00693" id="Vitvi01g00693">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa57"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi01g00693"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="GENE"/>
+<graphics type="RECT" h="15.0" w="170.0" x="286.0" y="523.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi05t01536" id="Vitvi05t01536">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa58"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi05t01536"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="RNA"/>
+<graphics type="PARALLELOGRAM" h="15.0" w="90.0" x="779.0" y="519.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="GeneCB339545" id="GeneCB339545">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa59"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="GeneCB339545"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="GENE"/>
+<graphics type="RECT" h="15.0" w="170.0" x="478.0" y="503.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="CB339545" id="CB339545">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa60"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="CB339545"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="RNA"/>
+<graphics type="PARALLELOGRAM" h="15.0" w="90.0" x="651.0" y="503.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi19g00620" id="Vitvi19g00620">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa61"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi19g00620"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="GENE"/>
+<graphics type="RECT" h="15.0" w="170.0" x="478.0" y="518.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi19t00620" id="Vitvi19t00620">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa62"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi19t00620"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="RNA"/>
+<graphics type="PARALLELOGRAM" h="15.0" w="90.0" x="651.0" y="518.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="o-succinylbenzoate-CoA_ligase" id="E6_2_1_26">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa63"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="E6_2_1_26"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="PROTEIN"/>
+<graphics type="OCTAGON" h="15.0" w="178.0" x="747.0" y="223.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="O-succinylbenzoate-CoA synthase" id="K02549">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa64"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="K02549"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="PROTEIN"/>
+<graphics type="OCTAGON" h="15.0" w="266.0" x="757.0" y="178.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="naphthoate_synthase" id="E4_1_3_36">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa65"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="E4_1_3_36"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="PROTEIN"/>
+<graphics type="OCTAGON" h="15.0" w="130.0" x="760.0" y="259.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="1,4-dihydroxy-2-naphthoate octaprenyltransferase" id="K02548">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa66"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="K02548"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="PROTEIN"/>
+<graphics type="OCTAGON" h="15.0" w="260.0" x="773.0" y="363.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="thioesterase YFBB" id="K08680">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa67"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="K08680"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="PROTEIN"/>
+<graphics type="OCTAGON" h="15.0" w="143.0" x="747.0" y="309.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="2-Phytyl-1,4-naphthoquinone" id="C13309">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa68"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="C13309"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="SIMPLE_MOLECULE"/>
+<graphics type="ELLIPSE" h="15.0" w="181.0" x="731.0" y="386.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi16t00087" id="Vitvi16t00087">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa69"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi16t00087"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="RNA"/>
+<graphics type="PARALLELOGRAM" h="15.0" w="90.0" x="197.0" y="444.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi16g00087" id="Vitvi16g00087">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa70"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi16g00087"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="GENE"/>
+<graphics type="RECT" h="15.0" w="170.0" x="286.0" y="444.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi01t00711" id="Vitvi01t00711">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa71"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi01t00711"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="RNA"/>
+<graphics type="PARALLELOGRAM" h="15.0" w="90.0" x="753.0" y="275.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi03g01188" id="Vitvi03g01188">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa72"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi03g01188"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="GENE"/>
+<graphics type="RECT" h="15.0" w="170.0" x="767.0" y="347.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi05t00259" id="Vitvi05t00259">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa73"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi05t00259"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="RNA"/>
+<graphics type="PARALLELOGRAM" h="15.0" w="90.0" x="197.0" y="460.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi05g00259" id="Vitvi05g00259">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa74"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi05g00259"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="GENE"/>
+<graphics type="RECT" h="15.0" w="170.0" x="286.0" y="460.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vv01s0127t00180" id="Vv01s0127t00180">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa75"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vv01s0127t00180"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="RNA"/>
+<graphics type="PARALLELOGRAM" h="15.0" w="90.0" x="197.0" y="429.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vv01s0127g00180" id="Vv01s0127g00180">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa76"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vv01s0127g00180"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="GENE"/>
+<graphics type="RECT" h="15.0" w="170.0" x="286.0" y="429.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate" id="C04171">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa77"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="C04171"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="SIMPLE_MOLECULE"/>
+<graphics type="ELLIPSE" h="15.0" w="240.0" x="784.0" y="144.0" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vv01s0010g00900" id="Vv01s0010g00900">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa78"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vv01s0010g00900"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="GENE"/>
+<graphics type="RECT" h="15.0" w="170.0" x="616.25" y="456.0" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vv01s0010t00900" id="Vv01s0010t00900">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa79"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vv01s0010t00900"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="RNA"/>
+<graphics type="PARALLELOGRAM" h="15.0" w="90.0" x="786.25" y="456.0" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vv01s0010g00870" id="Vv01s0010g00870">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa80"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vv01s0010g00870"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="GENE"/>
+<graphics type="RECT" h="15.0" w="170.0" x="615.25" y="472.0" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vv01s0010t00870" id="Vv01s0010t00870">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa81"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vv01s0010t00870"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="RNA"/>
+<graphics type="PARALLELOGRAM" h="15.0" w="90.0" x="785.25" y="472.0" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="2-Succinylbenzoyl-CoA" id="C03160">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa82"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="C03160"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="SIMPLE_MOLECULE"/>
+<graphics type="ELLIPSE" h="15.0" w="151.0" x="662.0" y="243.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Isochorismate" id="C00885">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa83"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="C00885"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="SIMPLE_MOLECULE"/>
+<graphics type="ELLIPSE" h="15.0" w="102.0" x="680.0" y="87.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="1,4-Dihydroxy-2-naphthoyl-CoA" id="C15547">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa84"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="C15547"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="SIMPLE_MOLECULE"/>
+<graphics type="ELLIPSE" h="15.0" w="192.0" x="642.0" y="293.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="2-Succinylbenzoate" id="C02730">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa85"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="C02730"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="SIMPLE_MOLECULE"/>
+<graphics type="ELLIPSE" h="15.0" w="134.0" x="669.0" y="206.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="1,4-Dihydroxy-2-naphthoate" id="C03657">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa86"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="C03657"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="SIMPLE_MOLECULE"/>
+<graphics type="ELLIPSE" h="15.0" w="173.0" x="650.0" y="329.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="2-Hexaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinone" id="C05805">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa87"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="C05805"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="SIMPLE_MOLECULE"/>
+<graphics type="ELLIPSE" h="15.0" w="350.0" x="6.0" y="581.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Ubiquinone" id="C00399">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa88"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="C00399"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="SIMPLE_MOLECULE"/>
+<graphics type="ELLIPSE" h="15.0" w="82.0" x="568.0" y="581.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="2-Hexaprenyl-3-methyl-6-methoxy-1,4-benzoquinone" id="C05804">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa89"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="C05804"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="SIMPLE_MOLECULE"/>
+<graphics type="ELLIPSE" h="15.0" w="298.0" x="30.0" y="540.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Phylloquinone" id="C02059">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa90"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="C02059"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="SIMPLE_MOLECULE"/>
+<graphics type="ELLIPSE" h="15.0" w="122.0" x="918.0" y="405.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Ubiquinol" id="C00390">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa91"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="C00390"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="SIMPLE_MOLECULE"/>
+<graphics type="ELLIPSE" h="15.0" w="84.0" x="879.0" y="578.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="ubiquinone biosynthesis monooxygenase Coq7" id="K06134">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa92"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="K06134"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="PROTEIN"/>
+<graphics type="OCTAGON" h="15.0" w="250.0" x="190.0" y="560.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi03t01188" id="Vitvi03t01188">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa93"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi03t01188"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="RNA"/>
+<graphics type="PARALLELOGRAM" h="15.0" w="90.0" x="937.0" y="348.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Reduced electron-transferring flavoprotein" id="C04570">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa94"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="C04570"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="SIMPLE_MOLECULE"/>
+<graphics type="ELLIPSE" h="15.0" w="250.0" x="473.0" y="559.0" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Electron-transferring flavoprotein" id="C04253">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa95"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="C04253"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="SIMPLE_MOLECULE"/>
+<graphics type="ELLIPSE" h="15.0" w="200.0" x="860.0" y="554.0" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi10g01366" id="Vitvi10g01366">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa96"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi10g01366"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="GENE"/>
+<graphics type="RECT" h="15.0" w="170.0" x="923.0" y="25.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi09g00341" id="Vitvi09g00341">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa97"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi09g00341"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="GENE"/>
+<graphics type="RECT" h="15.0" w="170.0" x="923.0" y="40.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi09g01596" id="Vitvi09g01596">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa98"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi09g01596"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="GENE"/>
+<graphics type="RECT" h="15.0" w="170.0" x="923.0" y="55.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi07g01427" id="Vitvi07g01427">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa99"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi07g01427"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="GENE"/>
+<graphics type="RECT" h="15.0" w="170.0" x="923.0" y="70.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi07g01428" id="Vitvi07g01428">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa100"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi07g01428"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="GENE"/>
+<graphics type="RECT" h="15.0" w="170.0" x="923.0" y="85.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vv03s0038g00360" id="Vv03s0038g00360">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa101"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vv03s0038g00360"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="GENE"/>
+<graphics type="RECT" h="15.0" w="170.0" x="923.0" y="100.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="NADH dehydrogenase" id="K00329">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa102"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="K00329"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="PROTEIN"/>
+<graphics type="OCTAGON" h="15.0" w="230.0" x="500.0" y="534.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi01g00711" id="Vitvi01g00711">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa103"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi01g00711"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="GENE"/>
+<graphics type="RECT" h="15.0" w="170.0" x="849.0" y="274.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi05g01536" id="Vitvi05g01536">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa104"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi05g01536"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="GENE"/>
+<graphics type="RECT" h="15.0" w="170.0" x="876.0" y="518.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="electron-transferring-flavoprotein dehydrogenase" id="E1_5_5_1">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa105"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="E1_5_5_1"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="PROTEIN"/>
+<graphics type="OCTAGON" h="15.0" w="280.0" x="766.0" y="534.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi10t01366" id="Vitvi10t01366">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa106"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi10t01366"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="RNA"/>
+<graphics type="PARALLELOGRAM" h="15.0" w="90.0" x="830.0" y="27.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi09t00341" id="Vitvi09t00341">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa107"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi09t00341"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="RNA"/>
+<graphics type="PARALLELOGRAM" h="15.0" w="90.0" x="830.0" y="42.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi09t01596" id="Vitvi09t01596">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa108"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi09t01596"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="RNA"/>
+<graphics type="PARALLELOGRAM" h="15.0" w="90.0" x="830.0" y="57.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi07t01427" id="Vitvi07t01427">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa109"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi07t01427"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="RNA"/>
+<graphics type="PARALLELOGRAM" h="15.0" w="90.0" x="830.0" y="72.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vitvi07t01428" id="Vitvi07t01428">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa110"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vitvi07t01428"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="RNA"/>
+<graphics type="PARALLELOGRAM" h="15.0" w="90.0" x="830.0" y="87.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="Vv03s0038t00360" id="Vv03s0038t00360">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa111"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="Vv03s0038t00360"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="RNA"/>
+<graphics type="PARALLELOGRAM" h="15.0" w="90.0" x="830.0" y="102.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="isochorismatase" id="E3_3_2_1">
+	<att type="string" name="CELLDESIGNER_ALIAS" value="sa112"/>
+	<att type="string" name="CELLDESIGNER_SPECIES" value="E3_3_2_1"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="PROTEIN"/>
+<graphics type="OCTAGON" h="15.0" w="160.0" x="832.0" y="118.0" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+</node>
+	<node label="re1" id="re1">
+<graphics type="TRIANGLE" h="10" w="10" x="517" y="394" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="STATE_TRANSITION"/>
+</node>
+<edge label="leftre1" source="C05818" target="re1">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="rightre1" source="re1" target="C00828">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="left2re1" source="" target="re1">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="right2re1" source="re1" target="">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="catre1" source="K03183" target="re1">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="CATALYSIS"/>
+ </edge>
+	<node label="re2" id="re2">
+<graphics type="TRIANGLE" h="10" w="10" x="690.5" y="358" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="STATE_TRANSITION"/>
+</node>
+<edge label="leftre2" source="C03657" target="re2">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="rightre2" source="re2" target="C13309">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="left2re2" source="" target="re2">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="right2re2" source="re2" target="">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="catre2" source="K02548" target="re2">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="CATALYSIS"/>
+ </edge>
+	<node label="re3" id="re3">
+<graphics type="TRIANGLE" h="10" w="10" x="66.5" y="372" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="STATE_TRANSITION"/>
+</node>
+<edge label="leftre3" source="C05802" target="re3">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="rightre3" source="re3" target="C05803">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="left2re3" source="" target="re3">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="right2re3" source="re3" target="">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="catre3" source="K06126" target="re3">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="CATALYSIS"/>
+ </edge>
+	<node label="re4" id="re4">
+<graphics type="TRIANGLE" h="10" w="10" x="646" y="311.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="STATE_TRANSITION"/>
+</node>
+<edge label="leftre4" source="C15547" target="re4">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="rightre4" source="re4" target="C03657">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="left2re4" source="" target="re4">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="right2re4" source="re4" target="">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="catre4" source="K08680" target="re4">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="CATALYSIS"/>
+ </edge>
+	<node label="re5" id="re5">
+<graphics type="TRIANGLE" h="10" w="10" x="616.5" y="184" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="STATE_TRANSITION"/>
+</node>
+<edge label="leftre5" source="C05817" target="re5">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="rightre5" source="re5" target="C02730">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="left2re5" source="" target="re5">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="right2re5" source="re5" target="">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="catre5" source="K02549" target="re5">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="CATALYSIS"/>
+ </edge>
+	<node label="re6" id="re6">
+<graphics type="TRIANGLE" h="10" w="10" x="652" y="268.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="STATE_TRANSITION"/>
+</node>
+<edge label="leftre6" source="C03160" target="re6">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="rightre6" source="re6" target="C15547">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="left2re6" source="" target="re6">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="right2re6" source="re6" target="">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="catre6" source="E4_1_3_36" target="re6">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="CATALYSIS"/>
+ </edge>
+	<node label="re7" id="re7">
+<graphics type="TRIANGLE" h="10" w="10" x="55.5" y="296.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="STATE_TRANSITION"/>
+</node>
+<edge label="leftre7" source="C05200" target="re7">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="rightre7" source="re7" target="C05313">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="left2re7" source="" target="re7">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="right2re7" source="re7" target="">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="catre7" source="E2_1_1_114" target="re7">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="CATALYSIS"/>
+ </edge>
+	<node label="re8" id="re8">
+<graphics type="TRIANGLE" h="10" w="10" x="251" y="130.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="STATE_TRANSITION"/>
+</node>
+<edge label="leftre8" source="C00251" target="re8">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="rightre8" source="re8" target="C00156">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="left2re8" source="" target="re8">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="right2re8" source="re8" target="">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="catre8" source="E4_1_3_40" target="re8">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="CATALYSIS"/>
+ </edge>
+	<node label="re9" id="re9">
+<graphics type="TRIANGLE" h="10" w="10" x="665.5" y="225" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="STATE_TRANSITION"/>
+</node>
+<edge label="leftre9" source="C02730" target="re9">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="rightre9" source="re9" target="C03160">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="left2re9" source="" target="re9">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="right2re9" source="re9" target="">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="catre9" source="E6_2_1_26" target="re9">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="CATALYSIS"/>
+ </edge>
+	<node label="re10" id="re10">
+<graphics type="TRIANGLE" h="10" w="10" x="824.5" y="396" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="STATE_TRANSITION"/>
+</node>
+<edge label="leftre10" source="C13309" target="re10">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="rightre10" source="re10" target="C02059">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="left2re10" source="" target="re10">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="right2re10" source="re10" target="">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="catre10" source="K03183" target="re10">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="CATALYSIS"/>
+ </edge>
+	<node label="re11" id="re11">
+<graphics type="TRIANGLE" h="10" w="10" x="18" y="561" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="STATE_TRANSITION"/>
+</node>
+<edge label="leftre11" source="C05804" target="re11">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="rightre11" source="re11" target="C05805">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="left2re11" source="" target="re11">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="right2re11" source="re11" target="">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="catre11" source="K06134" target="re11">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="CATALYSIS"/>
+ </edge>
+	<node label="re12" id="re12">
+<graphics type="TRIANGLE" h="10" w="10" x="608.5" y="355" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="STATE_TRANSITION"/>
+</node>
+<edge label="leftre12" source="C03657" target="re12">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="rightre12" source="re12" target="C05818">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="left2re12" source="" target="re12">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="right2re12" source="re12" target="">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="catre12" source="K02548" target="re12">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="CATALYSIS"/>
+ </edge>
+	<node label="re13" id="re13">
+<graphics type="TRIANGLE" h="10" w="10" x="39" y="469" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="STATE_TRANSITION"/>
+</node>
+<edge label="leftre13" source="C05803" target="re13">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="rightre13" source="re13" target="C05804">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="left2re13" source="" target="re13">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="right2re13" source="re13" target="">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="catre13" source="K06127" target="re13">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="CATALYSIS"/>
+ </edge>
+	<node label="re14" id="re14">
+<graphics type="TRIANGLE" h="10" w="10" x="74.5" y="192.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="STATE_TRANSITION"/>
+</node>
+<edge label="leftre14" source="C01230" target="re14">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="rightre14" source="re14" target="C13425">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="left2re14" source="C00156" target="re14">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="right2re14" source="re14" target="">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="catre14" source="K06125" target="re14">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="CATALYSIS"/>
+ </edge>
+	<node label="re15" id="re15">
+<graphics type="TRIANGLE" h="10" w="10" x="622" y="124.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="STATE_TRANSITION"/>
+</node>
+<edge label="leftre15" source="C00885" target="re15">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="rightre15" source="re15" target="C05817">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="left2re15" source="" target="re15">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="right2re15" source="re15" target="">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="catre15" source="E2_5_1_64" target="re15">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="CATALYSIS"/>
+ </edge>
+	<node label="re16" id="re16">
+<graphics type="TRIANGLE" h="10" w="10" x="723.5" y="580" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="STATE_TRANSITION"/>
+</node>
+<edge label="leftre16" source="C00399" target="re16">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="rightre16" source="re16" target="C00390">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="left2re16" source="" target="re16">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="right2re16" source="re16" target="">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="catre16" source="K00329" target="re16">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="CATALYSIS"/>
+ </edge>
+	<node label="re17" id="re17">
+<graphics type="TRIANGLE" h="10" w="10" x="287" y="581.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="STATE_TRANSITION"/>
+</node>
+<edge label="leftre17" source="C05805" target="re17">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="rightre17" source="re17" target="C00399">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="left2re17" source="" target="re17">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="right2re17" source="re17" target="">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="catre17" source="E2_1_1_114" target="re17">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="CATALYSIS"/>
+ </edge>
+	<node label="re18" id="re18">
+<graphics type="TRIANGLE" h="10" w="10" x="473" y="86.5" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="STATE_TRANSITION"/>
+</node>
+<edge label="leftre18" source="C00251" target="re18">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="rightre18" source="re18" target="C00885">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="left2re18" source="" target="re18">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="right2re18" source="re18" target="">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="catre18" source="E5_4_4_2" target="re18">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="CATALYSIS"/>
+ </edge>
+<edge label="re19" source="Vitvi16g00087" target="Vitvi16t00087">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSCRIPTION"/>
+ </edge>
+<edge label="re20" source="Vitvi16t00087" target="K06127">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSLATION"/>
+ </edge>
+<edge label="re21" source="Vitvi07g00742" target="Vitvi07t00742">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSCRIPTION"/>
+ </edge>
+<edge label="re22" source="Vitvi07t00742" target="K00329">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSLATION"/>
+ </edge>
+<edge label="re23" source="Vitvi17g00547" target="Vitvi17t00547">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSCRIPTION"/>
+ </edge>
+<edge label="re24" source="Vitvi17t00547" target="E5_4_4_2">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSLATION"/>
+ </edge>
+<edge label="re25" source="Vitvi14g01898" target="Vitvi14t01898">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSCRIPTION"/>
+ </edge>
+<edge label="re26" source="Vitvi14t01898" target="E5_4_4_2">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSLATION"/>
+ </edge>
+<edge label="re27" source="GeneTC69646" target="TC69646">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSCRIPTION"/>
+ </edge>
+<edge label="re28" source="TC69646" target="E5_4_4_2">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSLATION"/>
+ </edge>
+<edge label="re29" source="Vitvi01g00711" target="Vitvi01t00711">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSCRIPTION"/>
+ </edge>
+<edge label="re30" source="Vitvi01t00711" target="E4_1_3_36">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSLATION"/>
+ </edge>
+<edge label="re31" source="C05313" target="C05802">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="re32" source="C13425" target="C05200">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="re33" source="Vitvi01g00688" target="Vitvi01t00688">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSCRIPTION"/>
+ </edge>
+<edge label="re34" source="Vitvi01t00688" target="K03183">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSLATION"/>
+ </edge>
+<edge label="re35" source="Vitvi00g01525" target="Vitvi00t01525">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSCRIPTION"/>
+ </edge>
+<edge label="re36" source="GSVIVT00011282001" target="GSVIVP00011282001">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSCRIPTION"/>
+ </edge>
+<edge label="re37" source="Vitvi00g00109" target="Vitvi00t00109">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSCRIPTION"/>
+ </edge>
+<edge label="re38" source="GSVIVT00011890001" target="GSVIVP00011890001">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSCRIPTION"/>
+ </edge>
+<edge label="re39" source="Vitvi03g01188" target="Vitvi03t01188">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSCRIPTION"/>
+ </edge>
+<edge label="re40" source="Vitvi05g00259" target="Vitvi05t00259">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSCRIPTION"/>
+ </edge>
+<edge label="re41" source="Vitvi01g01033" target="Vitvi01t01033">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSCRIPTION"/>
+ </edge>
+<edge label="re42" source="Vitvi11g00192" target="Vitvi11t00192">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSCRIPTION"/>
+ </edge>
+<edge label="re43" source="Vitvi14g01656" target="Vitvi14t01656">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSCRIPTION"/>
+ </edge>
+<edge label="re44" source="Vitvi01g00693" target="Vitvi01t00693">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSCRIPTION"/>
+ </edge>
+<edge label="re45" source="Vitvi05g01536" target="Vitvi05t01536">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSCRIPTION"/>
+ </edge>
+<edge label="re46" source="Vv01s0010g00850" target="Vv01s0010t00850">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSCRIPTION"/>
+ </edge>
+<edge label="re47" source="Vv01s0127g00180" target="Vv01s0127t00180">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSCRIPTION"/>
+ </edge>
+<edge label="re48" source="GSVIVP00011890001" target="E2_1_1_114">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSLATION"/>
+ </edge>
+<edge label="re49" source="Vitvi00t00109" target="E2_1_1_114">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSLATION"/>
+ </edge>
+<edge label="re50" source="GSVIVP00011282001" target="E2_1_1_114">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSLATION"/>
+ </edge>
+<edge label="re51" source="Vitvi00t01525" target="E2_1_1_114">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSLATION"/>
+ </edge>
+<edge label="re52" source="Vitvi03t01188" target="K02548">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSLATION"/>
+ </edge>
+	<node label="re53" id="re53">
+<graphics type="TRIANGLE" h="10" w="10" x="723.5" y="580" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="STATE_TRANSITION"/>
+</node>
+<edge label="leftre53" source="C00399" target="re53">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="rightre53" source="re53" target="C00390">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="left2re53" source="C04570" target="re53">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="right2re53" source="re53" target="C04253">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="catre53" source="E1_5_5_1" target="re53">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="CATALYSIS"/>
+ </edge>
+<edge label="re54" source="Vitvi05t01536" target="E1_5_5_1">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSLATION"/>
+ </edge>
+<edge label="re55" source="Vitvi01t00688" target="K03183">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSLATION"/>
+ </edge>
+<edge label="re56" source="Vitvi05t00259" target="K06127">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSLATION"/>
+ </edge>
+<edge label="re57" source="Vitvi01t01033" target="K06127">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSLATION"/>
+ </edge>
+<edge label="re58" source="Vitvi11t00192" target="K06127">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSLATION"/>
+ </edge>
+<edge label="re59" source="Vitvi14t01656" target="K06127">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSLATION"/>
+ </edge>
+<edge label="re60" source="Vitvi01t00693" target="K06127">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSLATION"/>
+ </edge>
+<edge label="re61" source="Vv01s0127t00180" target="K06127">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSLATION"/>
+ </edge>
+<edge label="re62" source="Vitvi01g00178" target="Vitvi01t00178">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSCRIPTION"/>
+ </edge>
+<edge label="re63" source="Vitvi01t00178" target="K06125">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSLATION"/>
+ </edge>
+<edge label="re66" source="Vv03s0038g01240" target="Vv03s0038t01240">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSCRIPTION"/>
+ </edge>
+<edge label="re67" source="Vv03s0038t01240" target="K06126">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSLATION"/>
+ </edge>
+<edge label="re68" source="Vitvi10g01366" target="Vitvi10t01366">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSCRIPTION"/>
+ </edge>
+<edge label="re69" source="Vitvi09g00341" target="Vitvi09t00341">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSCRIPTION"/>
+ </edge>
+<edge label="re70" source="Vitvi09g01596" target="Vitvi09t01596">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSCRIPTION"/>
+ </edge>
+<edge label="re71" source="Vitvi07g01427" target="Vitvi07t01427">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSCRIPTION"/>
+ </edge>
+<edge label="re72" source="Vitvi07g01428" target="Vitvi07t01428">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSCRIPTION"/>
+ </edge>
+<edge label="re73" source="Vv03s0038g00360" target="Vv03s0038t00360">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSCRIPTION"/>
+ </edge>
+<edge label="re74" source="Vitvi17g00551" target="Vitvi17t00551">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSCRIPTION"/>
+ </edge>
+	<node label="re75" id="re75">
+<graphics type="TRIANGLE" h="10" w="10" x="732" y="115.75" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  <att type="string" name="CELLDESIGNER_NODE_TYPE" value="STATE_TRANSITION"/>
+</node>
+<edge label="leftre75" source="C00885" target="re75">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="rightre75" source="re75" target="C04171">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="left2re75" source="" target="re75">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="right2re75" source="re75" target="">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="STATE_TRANSITION"/>
+ </edge>
+<edge label="catre75" source="E3_3_2_1" target="re75">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="CATALYSIS"/>
+ </edge>
+<edge label="re76" source="Vitvi10t01366" target="E3_3_2_1">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSLATION"/>
+ </edge>
+<edge label="re77" source="Vitvi09t00341" target="E3_3_2_1">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSLATION"/>
+ </edge>
+<edge label="re78" source="Vitvi09t01596" target="E3_3_2_1">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSLATION"/>
+ </edge>
+<edge label="re79" source="Vitvi07t01427" target="E3_3_2_1">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSLATION"/>
+ </edge>
+<edge label="re80" source="Vitvi07t01428" target="E3_3_2_1">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSLATION"/>
+ </edge>
+<edge label="re81" source="Vv03s0038t00360" target="E3_3_2_1">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSLATION"/>
+ </edge>
+<edge label="re82" source="Vitvi17t00551" target="E5_4_4_2">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSLATION"/>
+ </edge>
+<edge label="re83" source="Vitvi19g00620" target="Vitvi19t00620">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSCRIPTION"/>
+ </edge>
+<edge label="re84" source="GeneCB339545" target="CB339545">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSCRIPTION"/>
+ </edge>
+<edge label="re85" source="CB339545" target="K00329">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSLATION"/>
+ </edge>
+<edge label="re86" source="Vitvi19t00620" target="K00329">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSLATION"/>
+ </edge>
+<edge label="re87" source="Vv01s0010g00900" target="Vv01s0010t00900">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSCRIPTION"/>
+ </edge>
+<edge label="re88" source="Vv01s0010t00900" target="K03183">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSLATION"/>
+ </edge>
+<edge label="re89" source="Vv01s0010g00870" target="Vv01s0010t00870">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSCRIPTION"/>
+ </edge>
+<edge label="re90" source="Vitvi05g01036" target="Vitvi05t01036">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSCRIPTION"/>
+ </edge>
+<edge label="re91" source="Vv01s0010t00870" target="K03183">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSLATION"/>
+ </edge>
+<edge label="re92" source="Vitvi05t01036" target="K06126">
+<att type="string" name="CELLDESIGNER_EDGE_TYPE" value="TRANSLATION"/>
+ </edge>
+</graph>
